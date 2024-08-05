@@ -1,3 +1,4 @@
+.vs/
 /Build
 /Publish
 /Distribution
@@ -37,3 +38,7 @@ _ReSharper*/
 
 [Aa]rtifacts/
 *.lock.json
+
+.idea/
+*.iml
+*.iwl
