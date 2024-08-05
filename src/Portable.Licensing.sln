@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.30723.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".paket", ".paket", "{476022A4-7C0A-4FC7-830E-ED32D3F82B13}"
 	ProjectSection(SolutionItems) = preProject
@@ -11,6 +11,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{449E5271-6EE5-49BA-AB0E-370978ACD89C}"
 	ProjectSection(SolutionItems) = preProject
 		..\build.fsx = ..\build.fsx
+		..\deps.props = ..\deps.props
 		..\LICENSE.md = ..\LICENSE.md
 		..\Portable.Licensing.nuspec = ..\Portable.Licensing.nuspec
 		..\README.md = ..\README.md
